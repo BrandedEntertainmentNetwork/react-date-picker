@@ -18,7 +18,7 @@
   "dependencies": {
     "lodash.throttle": "^4.0.1",
     "object-assign": "4.0.1",
-    "raf": "3.2.0",
+    "raf": "3.4.1",
     "react-class": "2.0.0",
     "react-field": "2.0.2",
     "react-flex": "2.2.7",
